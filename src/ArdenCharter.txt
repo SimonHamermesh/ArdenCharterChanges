@@ -55,7 +55,7 @@ Equity of this State.
 Definitions
 Section 3
 As used in this Act
-(a) Resident shall mean a person, male or female, above the age of eighteen (18) years, who shall have resided in
+(a) Resident shall mean a person, male or female, eighteen (18) years or older, who shall have resided in
 the Village for a period of six consecutive months immediately preceding each referendum or each meeting of
 the Town Assembly of Arden held pursuant to this Act.
 (b) General referendum shall mean an election or vote of the residents of the Village at which the vote of a majority
@@ -74,15 +74,15 @@ Meetings of the Town Assembly
 Section 5
 (a) Regular meetings of the Town Assembly shall be held on the fourth Monday of January, March, June and
 September of each year after the approval of this Act at the Gild Hall in the Village or other suitable public place
-in the Village. Written notice of the time, date and place of all regular meetings of the Town Assembly shall be
-mailed by the Secretary of the Town Assembly to all residents of the Village at least 5 days prior thereto.
+in the Village. Written notice of the agenda, time, date and place of all regular meetings of the Town Assembly shall be
+delivered by the Secretary of the Town Assembly to all residents of the Village at least 7 days prior thereto, or as State law requires.
 (b) Special meetings of the Town Assembly shall be called by the Secretary of the Town Assembly (1) upon the
 written request of 25 residents, provided that such request shall state the purpose for calling such meeting,
 which purpose shall be set forth in the notice of such meeting; or (2) upon the affirmative vote of a majority of
 residents in attendance at a regular or special meeting of the Town Assembly provided that any motion for the
 calling of a special meeting shall state the purpose therefor, which purpose shall be set forth in the notice
-thereof. Notice of the time, date and place of any special meeting of the Town Assembly shall be mailed to all
-residents at least 5 days before the date thereof.
+thereof. Notice of the agenda, time, date and place of any special meeting of the Town Assembly shall be delivered to all
+residents at least 7 days before the date thereof, or as State law requires.
 (c) At all meetings of the Town Assembly thirty-five (35) residents shall constitute a quorum for the enactment of all
 ordinances, the adoption of all resolutions and motions, and the transaction of all business properly before the
 Town Assembly.
@@ -93,7 +93,7 @@ any meeting of the Town Assembly and to transact all business properly brought b
 (e) No ordinance of the Village shall be voted upon by the Town Assembly unless submitted to the Town Assembly
 in writing and read at the two consecutive meetings, whether regular or special, next preceding the meeting at
 which such ordinance shall be voted upon.
-(f) The Town Assembly shall determine its own rules and order of business and shall keep a journal of its
+(f) The Town Assembly shall determine its own rules and order of business for its Town Assembly meeting and shall keep a journal of its
 proceedings and the yeas and nays which shall be taken upon the passage of every ordinance and resolution.
 (g) The Town Assembly shall elect a resident to serve as Chairman of the Town Assembly who shall preside at all
 meetings thereof. The Chairman shall serve for a term of one (1) year or until his successor is duly elected by
@@ -117,11 +117,11 @@ information at any time or times as may be convenient. The compensation of the S
 such, shall be determined by the Town Assembly.
 Committees of the Town Assembly
 Section 6
-(a) The Town Assembly may elect such officials, including a Treasurer, and such agents, committees and
+(a) The Town Assembly may elect such officials and such agents, committees and
 commissioners of the Village which the Town Assembly may deem proper and necessary for the management
 of the Village and for the operation and enforcement of this Act and of any ordinances and resolutions adopted
 hereinunder. Any person so elected shall be a resident of the Village and shall serve at the pleasure of the
-Town Assembly but in no event longer than two years unless re-elected.
+Town Assembly.
 (b) All persons presently serving on committees of the Town Assembly shall continue in office until their
 successors are duly elected in the manner herein provided.
 Board of Assessors
@@ -206,7 +206,7 @@ Vacancies
 Section 10
 In case of vacancy created in any office established under the provisions of this Act and the doings of the Town
 Assembly by reason of death, resignation, loss of residence in the Village, conviction of a felony or otherwise, the Town
-Assembly, at the earliest possible meeting, shall elect some suitable person to serve the unexpired term of such office.
+Assembly, at the earliest possible meeting, shall elect a resident to serve the unexpired term of such office.
 Powers and Ordinances
 Section 11
 The Village shall have all powers possible for the Village to have under the Constitution and laws of Delaware as fully
@@ -225,12 +225,12 @@ department of the State of Delaware for any lawful purpose.
 The Village may exercise any of its powers or perform any of its functions and may participate in the financing thereof,
 jointly or in cooperation, by contract or otherwise with any one or more states or civil divisions or agencies thereof, including
 the government of New Castle County, or the United States or any agency thereof.
-It shall be the duty of the Town Assembly, at a reasonable time or times, to compile the ordinances, codes, orders and
-rules of the Town Assembly of the Village. The Town Assembly shall have a reasonable number of copies printed for the
-use of the officials of the Village and for public information. From time to time, upon the enactment of new ordinances,
+It shall be the duty of the Town Assembly, at a reasonable time or times, to compile the ordinances, policies, codes, orders and
+rules of the Town Assembly of the Village. The Town Assembly shall provide access to copies for the
+use of the officials of the Village and for public information. From time to time, upon the enactment of new ordinances, policies,
 codes, rules and regulations, or upon the enactment of amendments to the same, the Secretary of the Town Assembly shall
-enroll the same in the journal of the Town Assembly and keep copies of the same in a book to be provided for that purpose
-so that the same may be readily examined.
+enroll the same in the record of the Town Assembly and keep copies of the same to be provided for that purpose
+so that the same may be readily accessed and examined.
 Enforcement, Fines and Penalties
 Section 12
 (a) The Justices of the Peace sitting (whether regularly, specially or otherwise) in the Justice of the Peace Court
