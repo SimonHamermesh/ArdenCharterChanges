@@ -55,7 +55,7 @@ Equity of this State.
 Definitions
 Section 3
 As used in this Act
-(a) Resident shall mean a person, male or female, above the age of eighteen (18) years, who shall have resided in
+(a) Resident shall mean a person above the age of eighteen (18) years, who shall have resided in
 the Village for a period of six consecutive months immediately preceding each referendum or each meeting of
 the Town Assembly of Arden held pursuant to this Act.
 (b) General referendum shall mean an election or vote of the residents of the Village at which the vote of a majority
@@ -95,26 +95,25 @@ in writing and read at the two consecutive meetings, whether regular or special,
 which such ordinance shall be voted upon.
 (f) The Town Assembly shall determine its own rules and order of business and shall keep a journal of its
 proceedings and the yeas and nays which shall be taken upon the passage of every ordinance and resolution.
-(g) The Town Assembly shall elect a resident to serve as Chairman of the Town Assembly who shall preside at all
-meetings thereof. The Chairman shall serve for a term of one (1) year or until his successor is duly elected by
+(g) The Town Assembly shall elect a resident to serve as Chair of the Town Assembly who shall preside at all
+meetings thereof. The Chair shall serve for a term of one (1) year or until their successor is duly elected by
 the Town Assembly in accordance with the provisions hereof. The signature, certifications or attestation of the
-Chairman of the Town Assembly to any document pertaining to the affairs of the Village called for by any act,
+Chair of the Town Assembly to any document pertaining to the affairs of the Village called for by any act,
 statute, rule or regulation of the State of Delaware or any agency thereof shall be good and sufficient
 compliance therewith, notwithstanding that such act, statute, rule or regulation designates such document to
 be signed, certified or attested by the Mayor, City Manager, President of Council or like designated chief
 executive of an incorporated municipality of the State of Delaware.
 (h) The Town Assembly shall elect a resident to serve as Secretary of the Town Assembly for a term of one year or
-until his successor is duly elected by the Town Assembly in accordance with the provisions hereof. The
+until their successor is duly elected by the Town Assembly in accordance with the provisions hereof. The
 Secretary shall have charge and custody of the books, journal, records, papers and other effects of the Village
-and shall keep the same in a safe and secure place. He shall keep a full and complete record of all of the
-transactions of the Town Assembly. He shall file and keep in a safe place the seal of the Village and all papers
+and shall keep the same in a safe and secure place. The Secretary shall keep a full and complete record of all of the
+transactions of the Town Assembly. The Secretary shall file and keep in a safe place the seal of the Village and all papers
 and documents arising out of the proceedings of the Town Assembly and relative to the affairs of the Village.
-He shall deliver the same to his successor in office. He shall attest the seal of the Village when authorized by
+The Secretary shall deliver the same to his successor in office. The Secretary shall attest the seal of the Village when authorized by
 the Town Assembly and shall perform such duties and have such other powers as may be prescribed by
 ordinance. All books, records and journals of the Village in the custody of the Secretary may, in the presence of
 the Secretary, be inspected by any resident, Trustee or leaseholder of the Village desiring legitimate
-information at any time or times as may be convenient. The compensation of the Secretary for his duties as
-such, shall be determined by the Town Assembly.
+information at any time or times as may be convenient. The compensation of the Secretary shall be determined by the Town Assembly.
 Committees of the Town Assembly
 Section 6
 (a) The Town Assembly may elect such officials, including a Treasurer, and such agents, committees and
@@ -273,7 +272,7 @@ Contracts of the Town Assembly
 Section 14
 The Town Assembly is vested with authority on behalf of the Village to enter into contracts for the rendering of services
 to the Village and/or the purchase of supplies and doing of work for any municipal purpose of the Village. All formal
-contracts shall be signed by the Chairman of the Town Assembly, with the seal of the Village attached and attested by the
+contracts shall be signed by the Chair of the Town Assembly, with the seal of the Village attached and attested by the
 Secretary of the Town Assembly.
 Fire, Zoning and Housing Codes
 Section 15
