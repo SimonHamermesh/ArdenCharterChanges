@@ -65,6 +65,16 @@ any candidate voted upon thereat, unless otherwise expressly provided in this Ac
 wherein the lands described in Section 2 hereof, were conveyed upon certain trusts.
 (d) Leaseholder shall mean a person who leases a portion of the lands described in Section 2 hereof, from the
 Trustees serving under said Indenture. 58 Del. Laws, c. 91
+(e) An ordinance is a municipal regulation enacted by the Town Assembly which
+carries the state's authority and has the same effect within the municipality as a state
+statute.
+(f) A resolution is an act of the Town Assembly which formally expresses the will or
+action of the Town Assembly.
+(g) A policy is a standard course of action officially established by a committee or the
+Town Assembly. A procedure is a specific course of action adopted by a committee
+or the Town Assembly for implementing a policy.
+(h) A motion is a proposal made in a meeting of the Town Assembly for taking a
+formal action or position.
 Structure of Government
 Section 4
 The government of the Village and the exercise of all powers conferred by this Act, except as otherwise provided
