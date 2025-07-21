@@ -236,21 +236,11 @@ Section 12
 (a) The Justices of the Peace sitting (whether regularly, specially or otherwise) in the Justice of the Peace Court
 located nearest to the Village shall have jurisdiction and cognizance of all offenses against the provisions of
 this Act or the authorized ordinances of the Village committed within the limits of the Village as far as to arrest
-and hold to bail or fine and imprison offenders; provided that he shall impose no fine or penalty in excess of
-that fixed by the ordinance and shall not commit to prison for a longer term than 30 days. The New Castle
-County Correctional Institution may be used for imprisonment under the provisions of this Act provided that the
-Town Assembly shall pay for the board of persons committed for breaches of ordinances which are not
-breaches of the general law.
-(b) No ordinance of the Village shall provide for a fine in excess of $100 or imprisonment of more than 30 days.
+and hold to bail or fine and imprison offenders; provided that no fine, penalty or sentence of imprisonment in excess of
+the limits prescribed by State law.
+(b) No ordinance of the Village shall provide for a fine in excess of the limits prescribed by State law.
 (c) Any person convicted before such Justice of the Peace for the violation of any Village ordinance may appeal
-from such conviction to the Superior Court in and for New Castle County upon giving bond to the State with or
-without surety, as such Justice of the Peace shall determine, binding the person taking the appeal to appear
-before the Court. Notice of such an appeal shall be given to such Justice of the Peace within five (5) days from
-the time of conviction, counting the day of conviction as one, and the bond with surety, if any, shall be filed
-within five (5) days. No bond upon appeal from a conviction for violation of a Village ordinance shall exceed the
-sum of one hundred dollars ($100). Such appeal shall be prosecuted and the proceedings shall be had as in an
-appeal from a conviction before a Justice of the Peace in the case of a violation of the laws relating to the
-operation of motor vehicles.
+from such conviction to the Superior Court in and for New Castle County.
 Police Force
 Section 13
 The Town Assembly may appoint a police force consisting of such person or persons as the Town Assembly may deem
