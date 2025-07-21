@@ -275,31 +275,8 @@ The Town Assembly is vested with authority on behalf of the Village to enter int
 to the Village and/or the purchase of supplies and doing of work for any municipal purpose of the Village. All formal
 contracts shall be signed by the Chairman of the Town Assembly, with the seal of the Village attached and attested by the
 Secretary of the Town Assembly.
-Fire, Zoning and Housing Codes
-Section 15
-For protection against fire and for the preservation of the beauty of the Village and the health of the inhabitants, the
-Town Assembly may adopt ordinances to zone or district the Village and to make particular provisions for particular zones
-or districts with regard to buildings and building materials; to prohibit the use of building materials that may be deemed to
-create a fire hazard, and this power shall embrace new buildings or additions to or alterations of existing structures of every
-kind, to condemn and/or vacate buildings or structures, or portions thereof, that constitute a fire and/or health menace and
-to require or cause the same to be torn down or removed or so altered as to eliminate the menace of fire or danger to
-health; to prescribe the height and thickness of walls of any building and the kind and grade of materials used in the
-construction thereof; and to establish a building line for buildings to be erected.
-The Town Assembly may adopt zoning ordinances limiting and specifying districts and regulating thereon buildings,
-structures and uses according to their construction and according to the nature and extent of the use or business to be
-carried on therein.
-The powers to be exercised under and by virtue of this Section shall be deemed to have been exercised under the
-police power and for the general welfare of the inhabitants of the Village.
-The Town Assembly may create a Village Zoning Commission for the development, improvement and beautification of
-the Village and may prescribe its powers and duties.
-The Town Assembly may provide for the issuance of building permits and may forbid the construction of any new
-building or the addition to, or alteration or repair of any existing building unless a building permit has been obtained
-therefor.
-The Town Assembly may adopt a housing code to regulate and govern the occupancy of residential structures in the
-Village, the structural requirements of residential and commercial properties for the health, safety, welfare and comfort of
-occupants thereof, and to appoint a commission to carry out and enforce the provisions of the housing code.
 Savings Clause
-Section 16
+Section 15
 All ordinances, resolutions and motions adopted by the Commissioners of the Village of Arden and in force at the time
 of the approval, acceptance and going into effect of this Act are continued in force until the same or any of them, shall be
 repealed, modified or altered by the Town Assembly under the provisions of this Act. All the acts and doings of the
@@ -307,9 +284,9 @@ Commissioners of the Village of Arden or of any official of the Village of Arden
 performed under the laws of this State, prior to the approval, acceptance and going into effect of this Act are hereby ratified
 and confirmed unless otherwise provided herein.
 Severability
-Section 17
+Section 16
 If any part of this Act shall be held unconstitutional, such holding shall not in anywise invalidate the remaining
 provisions of this Act.
-Section 18
+Section 17
 This Act shall be deemed and taken to be a public Act.
 56 Del. Laws, c. 125; 58 Del. Laws, c. 91; 69 Del. Laws, c. 30
