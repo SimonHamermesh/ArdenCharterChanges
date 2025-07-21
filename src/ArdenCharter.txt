@@ -186,6 +186,8 @@ event be less than fifteen (15) days from the date the Registration Committee ma
 of the Village. The budget, if approved by a majority of the residents of the Village, shall govern the use and
 expenditure of the monies therein specified for and during the fiscal year of the Village commencing March 25
 next following the referendum.
+(d) In the event that the budget referendum fails the town shall use the previous year's budget until
+a new budget can be approved.
 Registration Committee
 Section 9
 (a) The Registration Committee shall consist of: (1) five residents of the Village elected by the Town Assembly.
