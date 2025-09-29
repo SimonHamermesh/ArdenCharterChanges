@@ -58,9 +58,8 @@ As used in this Act
 (a) Resident shall mean a person, male or female, above the age of eighteen (18) years, who shall have resided in
 the Village for a period of six consecutive months immediately preceding each referendum or each meeting of
 the Town Assembly of Arden held pursuant to this Act.
-(b) General referendum shall mean an election or vote of the residents of the Village at which the vote of a majority
-of the residents of the Village shall be necessary for the passage or approval of any matter or the election of
-any candidate voted upon thereat, unless otherwise expressly provided in this Act.
+(b) General referendum shall refer to an election or vote conducted among the residents of the Village of Arden. The
+approval of any measure or the election of any candidate shall require a majority of the valid votes cast by eligible voters.
 (c) Trustee shall mean a person serving as Trustee under a certain Indenture made the 31st day of January, 1908
 wherein the lands described in Section 2 hereof, were conveyed upon certain trusts.
 (d) Leaseholder shall mean a person who leases a portion of the lands described in Section 2 hereof, from the
@@ -154,8 +153,7 @@ provided that any leaseholder of the Village shall have the right to appeal such
 proposed assessment rate to the Town Assembly at its regular September meeting. In the event that such
 proposed rate shall receive the affirmative vote of two-thirds of the residents voting at such meeting, such
 proposed rate and the rate determined by the Board shall both be submitted to a general referendum of the
-residents of the Village. The referendum shall be conducted by the Registration Committee. The rate approved
-by a majority of residents shall be the rate in effect until redetermined in the manner herein provided.
+residents of the Village. The referendum shall be conducted by the Registration Committee. The rate approved by a majority of votes cast shall be the rate in effect until redetermined in the manner herein provided.
 (f) The Board of Assessors shall determine the applicability of differential factors to the application of the
 assessment rate upon leaseholds in the Village. The Board shall afford leaseholders the opportunity to be
 heard upon any question arising thereunder.
@@ -183,7 +181,7 @@ mail ballots to all residents of the Village. The ballots shall contain suitable
 disapproval of the entire proposed budget and each item therein enumerated. No ballot shall be counted
 unless received by the Registration Committee on or before a date fixed by the Committee which shall in no
 event be less than fifteen (15) days from the date the Registration Committee mails the ballots to the residents
-of the Village. The budget, if approved by a majority of the residents of the Village, shall govern the use and
+of the Village. The budget, if approved by a majority of the votes cast by the residents of the Village, shall govern the use and
 expenditure of the monies therein specified for and during the fiscal year of the Village commencing March 25
 next following the referendum.
 Registration Committee
