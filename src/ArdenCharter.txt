@@ -89,9 +89,12 @@ Town Assembly.
 such meeting. The Secretary of the Town Assembly shall take the yeas and nays and, unless otherwise
 specified in this Act, a majority of the yeas shall be sufficient to pass all ordinances, resolutions and motions at
 any meeting of the Town Assembly and to transact all business properly brought before the meeting.
-(e) No ordinance of the Village shall be voted upon by the Town Assembly unless submitted to the Town Assembly
-in writing and read at the two consecutive meetings, whether regular or special, next preceding the meeting at
-which such ordinance shall be voted upon.
+(e) No motion to enact, amend, or repeal an ordinance ofthe Village shall be voted upon at a Town Assembly meeting
+unless submitted to the Town Assembly in writing and read at the two consecutive meetings preceding the
+meeting at which such ordinance shall be voted upon, unless changes made at the third reading are deemed by
+a majority vote of Town Assembly to be significant enough to warrant postponing a final vote on the ordinance
+to the next Town Assembly meeting. Readings for enactment, amendment or repeal of ordinances may occur at a regular
+meeting or a special meeting called for that purpose.
 (f) The Town Assembly shall determine its own rules and order of business and shall keep a journal of its
 proceedings and the yeas and nays which shall be taken upon the passage of every ordinance and resolution.
 (g) The Town Assembly shall elect a resident to serve as Chairman of the Town Assembly who shall preside at all
