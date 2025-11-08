@@ -165,7 +165,7 @@ mailed by the Secretary of the Town Assembly to all residents of the Village at 
 written request of 25 residents, provided that such request shall state the purpose for calling such meeting,
 which purpose shall be set forth in the notice of such meeting; or (2) upon the affirmative vote of a majority of
 residents in attendance at a regular or special meeting of the Town Assembly provided that any motion for the
-calling of a special meeting shall state the purpose therefor, which purpose shall be set forth in the notice
+calling of a special meeting shall state the purpose therefore, which purpose shall be set forth in the notice
 thereof. Notice of the time, date and place of any special meeting of the Town Assembly shall be mailed to all
 residents at least 5 days before the date thereof. The business of the special meeting shall be confined to the subject mentioned
 in the call. The date of the special meeting shall be determined by the Advisory Committee. The Special meeting shall
@@ -205,11 +205,11 @@ the Secretary, be inspected by any resident, Trustee or leaseholder of the Villa
 information at any time or times as may be convenient. The compensation of the Secretary shall be determined by the Town Assembly.
 Committees of the Town Assembly
 Section 6
-(a) The Town Assembly may elect such officials, including a Treasurer, and such agents, committees and
+(a) The Town Assembly may elect such officials and such agents, committees and
 commissioners of the Village which the Town Assembly may deem proper and necessary for the management
 of the Village and for the operation and enforcement of this Act and of any ordinances and resolutions adopted
 hereinunder. Any person so elected shall be a resident of the Village and shall serve at the pleasure of the
-Town Assembly but in no event longer than two years unless re-elected.
+Town Assembly.
 (b) All persons presently serving on committees of the Town Assembly shall continue in office until their
 successors are duly elected in the manner herein provided.
 Board of Assessors
@@ -290,7 +290,7 @@ Vacancies
 Section 10
 In case of vacancy created in any office established under the provisions of this Act and the doings of the Town
 Assembly by reason of death, resignation, loss of residence in the Village, conviction of a felony or otherwise, the Town
-Assembly, at the earliest possible meeting, shall elect some suitable person to serve the unexpired term of such office.
+Assembly, at the earliest possible meeting, shall elect a resident to serve the unexpired term of such office.
 Powers and Ordinances
 Section 11
 The Village shall have all powers possible for the Village to have under the Constitution and laws of Delaware as fully
@@ -309,12 +309,12 @@ department of the State of Delaware for any lawful purpose.
 The Village may exercise any of its powers or perform any of its functions and may participate in the financing thereof,
 jointly or in cooperation, by contract or otherwise with any one or more states or civil divisions or agencies thereof, including
 the government of New Castle County, or the United States or any agency thereof.
-It shall be the duty of the Town Assembly, at a reasonable time or times, to compile the ordinances, codes, orders and
-rules of the Town Assembly of the Village. The Town Assembly shall have a reasonable number of copies printed for the
-use of the officials of the Village and for public information. From time to time, upon the enactment of new ordinances,
+It shall be the duty of the Town Assembly, at a reasonable time or times, to compile the ordinances, policies, codes, orders and
+rules of the Town Assembly of the Village. The Town Assembly shall provide access to copies for the
+use of the officials of the Village and for public information. From time to time, upon the enactment of new ordinances, policies,
 codes, rules and regulations, or upon the enactment of amendments to the same, the Secretary of the Town Assembly shall
-enroll the same in the journal of the Town Assembly and keep copies of the same in a book to be provided for that purpose
-so that the same may be readily examined.
+enroll the same in the record of the Town Assembly and keep copies of the same to be provided for that purpose
+so that the same may be readily accessed and examined.
 Enforcement, Fines and Penalties
 Section 12
 (a) The Justices of the Peace sitting (whether regularly, specially or otherwise) in the Justice of the Peace Court
