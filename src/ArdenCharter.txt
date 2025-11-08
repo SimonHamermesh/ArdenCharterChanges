@@ -1,5 +1,19 @@
 CHARTER OF ARDEN
 Arden
+
+Preamble of Arden
+We, the people of the Village of Arden, under the constitution and laws of the state of Delaware,
+to secure the benefits of local self-government and to provide for an open, honest, and
+accountable town assembly government, do hereby adopt this charter and confer upon the
+Village the following powers, subject to the following restrictions, and prescribed by the
+following procedures and governmental structure. This action affirms the values of direct
+democracy, strong volunteer political leadership, active citizen participation, diversity and
+inclusiveness, social justice, regional cooperation, and environmental stewardship. Founded in
+1900 upon the economic theory of Henry George’s Single Tax, principles of the Arts and Crafts
+movement, the Garden City concept, and other contemporary forward- thinking ideas, the
+Village of Arden has continued to nurture a diverse community that includes many artists,
+activists, and reformers.
+
 Name and General Powers
 Section 1
 (a) The inhabitants of the Village of Arden, in New Castle County, Delaware, and their successors within the limits
@@ -46,7 +60,69 @@ curvature; and (3) northeasterly along a curve to the left having a radius of 98
 now or formerly of the Trustees of Ardentown and the point and place of Beginning, said course being distant
 by a chord of North 47°-40’-12" East, 316.51 feet from the last described point. CONTAINING within such
 metes and bounds, and including Grubb or Harvey Road, 159.00 acres of land be the same more or less...
-(b) The Town Assembly may, at any time hereafter, cause a survey and plot of the village to be made, and said
+
+(b) Amended Boundaries
+Sherwood Forest Addition purchased on February 7, 2004 5.02 acres
+BEGINNING at a point in the Southeasterly side of Marsh Road
+(at sixty feet wide) distant Southwesterly seven hundred twenty-eight and
+fifty-six one-hundredths feet measured along said Southeasterly side of
+Marsh Road from the intersection thereof with the center line of Grubb
+Road, said point of Beginning being a comer for lands now or formerly of
+Arden Trustees; thence from said point of Beginning along line of lands now
+or formerly of Arden Trustees, South twenty-one degrees, one minute, thirty
+seconds East, seven hundred seventy-seven and ten one-hundredths feet to
+a point, a comer for lands now or formerly of Joseph L. Stecker; thence along
+line of lands now or formerly of Joseph L. Stecker South seventy degrees,
+fifteen minutes ten seconds West, three hundred feet to a point; thence by
+line of lands of Sherwood Green North nineteen degrees, twenty minutes,
+twenty-four seconds West, seven hundred thirty-nine and three onehundredths feet to a point in said Southeasterly side of Marsh Road; thence
+thereby North sixty-two degrees, twenty-eight minutes, thirty-six seconds
+East, two hundred eighty feet lo said comer for land now or formerly of
+Arden Trustees and to the point and place of Beginning. Containing within
+said described metes and bounds 5.026 acres of land, be the same more or
+less.
+Mill Race ADDITION purchase June 30, 2017, 1.6 acres
+LOT 3, Section F:
+BEGINNING at a point In the northwesterly side of Mill Race Road, at 40 feet
+wide, said point being southwesterly 171.75 feet measured along said side of Mill
+Race Road from a concrete monument marking the southerly end of a junction
+curve connecting said side of Mill Race Road with the westerly side of Ravine
+Road, at 40 feet wide and In the division line between Lots Nos. 2 and 3, Section
+F; thence thereby, North 59 degrees 00 minutes West 93.01 feet to a point in the
+division line between Lot 3, Section F, and lands late of Albert T. Hanby; thence
+thereby South 31 degrees 00 minutes West, 135 feet to a point in the division
+line between Lots Nos. 3 and 4, Section F; thence thereby, South 59 degrees 00
+seconds East,
+58.73 feet to a point In the northwesterly side of Mill Race Road; thence thereby,
+northeasterly along a curve to the right 87.81 feet to a concrete monument marking
+the beginning of a tangent; thence North 55 degrees 31 minutes East, 25 feet
+along said side of Mill Race Road to a concrete monument marking the beginning
+of a curve to the left; thence northeasterly along said side of Mill Race Road,
+28.69 feet to the place of Beginning. BE the contents thereof what they may.
+LOTS 4,5.6, Section F:
+BEGINNING at a point in the middle of West Branch of Naaman' s Creek, at the
+division line between Highlands Woods and lands now or formerly of Albert T.
+Hanby, said point of Beginning being marked by a drill hole in a rock as shown
+on said plat; thence along the division line between Highland Woods and lands
+now or formerly of said Albert T. Hanby, North 31 degrees East 205 feet more
+or less to a point In the division line between Lot No. 3 and Lot No. 4, Section F;
+thence along the division line between Lot Nos. 3 and Lot No. 4, Section F, South
+59 degrees East, 58.73 feet to a point In the southwesterly side of Mill Race Road,
+at 40 feet wide; thence In a southerly direction by the said side of Mill Race Road,
+along a curve to the left a distance of 88 feet to a point in the division line
+between Lot No. 4 and Lot No. 5, Section F; thence southeasterly along said side
+of Mill Race Road along a curve to the left, 87.78 feet to a point marking the
+beginning of a tangent; thence northeasterly along said side of Mill Race Road
+along said tangent 67.28 feet to a point marking the beginning of a curve to the
+right; thence along said side of Mill Race Road along said curve to the right,
+65.31 feet to a point in the division line between Lot No. 6, Section F and other
+lands now or formerly of Stockdale Corporation; thence thereby South 39
+degrees 49 minutes West 203.84 feet to a point in the center line of the west
+branch of Naaman' s Creek; thence thereby northwesterly 303 feet more or less
+to the place of Beginning. BE the contents thereof what they may.
+
+
+(c) The Town Assembly may, at any time hereafter, cause a survey and plot of the village to be made, and said
 plot or any supplement thereto, when so made and approved by the Town Assembly, signed by the Secretary
 of the Town Assembly, who shall affix thereto the municipal corporate seal of the Village, and upon being
 recorded in the office of the Recorder of Deeds of the State of Delaware in and for New Castle County, shall be
@@ -55,16 +131,25 @@ Equity of this State.
 Definitions
 Section 3
 As used in this Act
-(a) Resident shall mean a person, male or female, above the age of eighteen (18) years, who shall have resided in
+(a) Resident shall mean a person above the age of eighteen (18) years, who shall have resided in
 the Village for a period of six consecutive months immediately preceding each referendum or each meeting of
 the Town Assembly of Arden held pursuant to this Act.
-(b) General referendum shall mean an election or vote of the residents of the Village at which the vote of a majority
-of the residents of the Village shall be necessary for the passage or approval of any matter or the election of
-any candidate voted upon thereat, unless otherwise expressly provided in this Act.
+(b) General referendum shall refer to an election or vote conducted among the residents of the Village of Arden. The
+approval of any measure or the election of any candidate shall require a majority of the valid votes cast by eligible voters.
 (c) Trustee shall mean a person serving as Trustee under a certain Indenture made the 31st day of January, 1908
 wherein the lands described in Section 2 hereof, were conveyed upon certain trusts.
 (d) Leaseholder shall mean a person who leases a portion of the lands described in Section 2 hereof, from the
 Trustees serving under said Indenture. 58 Del. Laws, c. 91
+(e) An ordinance is a municipal regulation enacted by the Town Assembly which
+carries the state's authority and has the same effect within the municipality as a state
+statute.
+(f) A resolution is an act of the Town Assembly which formally expresses the will or
+action of the Town Assembly.
+(g) A policy is a standard course of action officially established by a committee or the
+Town Assembly. A procedure is a specific course of action adopted by a committee
+or the Town Assembly for implementing a policy.
+(h) A motion is a proposal made in a meeting of the Town Assembly for taking a
+formal action or position.
 Structure of Government
 Section 4
 The government of the Village and the exercise of all powers conferred by this Act, except as otherwise provided
@@ -73,16 +158,19 @@ Assembly shall consist of all residents of the Village.
 Meetings of the Town Assembly
 Section 5
 (a) Regular meetings of the Town Assembly shall be held on the fourth Monday of January, March, June and
-September of each year after the approval of this Act at the Gild Hall in the Village or other suitable public place
+September of each year after the approval of this Act at the Gild Hall in the Village or other suitable public physical or virtual venue
 in the Village. Written notice of the time, date and place of all regular meetings of the Town Assembly shall be
 mailed by the Secretary of the Town Assembly to all residents of the Village at least 5 days prior thereto.
 (b) Special meetings of the Town Assembly shall be called by the Secretary of the Town Assembly (1) upon the
 written request of 25 residents, provided that such request shall state the purpose for calling such meeting,
 which purpose shall be set forth in the notice of such meeting; or (2) upon the affirmative vote of a majority of
 residents in attendance at a regular or special meeting of the Town Assembly provided that any motion for the
-calling of a special meeting shall state the purpose therefor, which purpose shall be set forth in the notice
+calling of a special meeting shall state the purpose therefore, which purpose shall be set forth in the notice
 thereof. Notice of the time, date and place of any special meeting of the Town Assembly shall be mailed to all
-residents at least 5 days before the date thereof.
+residents at least 5 days before the date thereof. The business of the special meeting shall be confined to the subject mentioned
+in the call. The date of the special meeting shall be determined by the Advisory Committee. The Special meeting shall
+be held not more than 45 days after the Secretary’s receipt of the written request signed by 25 residents
+requesting the meeting or the date of the meeting at which the call of the special meeting was approved.
 (c) At all meetings of the Town Assembly thirty-five (35) residents shall constitute a quorum for the enactment of all
 ordinances, the adoption of all resolutions and motions, and the transaction of all business properly before the
 Town Assembly.
@@ -93,73 +181,61 @@ any meeting of the Town Assembly and to transact all business properly brought b
 (e) No ordinance of the Village shall be voted upon by the Town Assembly unless submitted to the Town Assembly
 in writing and read at the two consecutive meetings, whether regular or special, next preceding the meeting at
 which such ordinance shall be voted upon.
-(f) The Town Assembly shall determine its own rules and order of business and shall keep a journal of its
+(f) A referendum, as defined in Section 3B herein, can be called for by a majority vote at a Town Assembly meeting.
+(g) The Town Assembly shall determine its own rules and order of business and shall keep a journal of its
 proceedings and the yeas and nays which shall be taken upon the passage of every ordinance and resolution.
-(g) The Town Assembly shall elect a resident to serve as Chairman of the Town Assembly who shall preside at all
-meetings thereof. The Chairman shall serve for a term of one (1) year or until his successor is duly elected by
+(h) The Town Assembly shall elect a resident to serve as Chair of the Town Assembly who shall preside at all
+meetings thereof. The Chair shall serve for a term of one (1) year or until their successor is duly elected by
 the Town Assembly in accordance with the provisions hereof. The signature, certifications or attestation of the
-Chairman of the Town Assembly to any document pertaining to the affairs of the Village called for by any act,
+Chair of the Town Assembly to any document pertaining to the affairs of the Village called for by any act,
 statute, rule or regulation of the State of Delaware or any agency thereof shall be good and sufficient
 compliance therewith, notwithstanding that such act, statute, rule or regulation designates such document to
 be signed, certified or attested by the Mayor, City Manager, President of Council or like designated chief
 executive of an incorporated municipality of the State of Delaware.
-(h) The Town Assembly shall elect a resident to serve as Secretary of the Town Assembly for a term of one year or
-until his successor is duly elected by the Town Assembly in accordance with the provisions hereof. The
+(i) The Town Assembly shall elect a resident to serve as Secretary of the Town Assembly for a term of one year or
+until their successor is duly elected by the Town Assembly in accordance with the provisions hereof. The
 Secretary shall have charge and custody of the books, journal, records, papers and other effects of the Village
-and shall keep the same in a safe and secure place. He shall keep a full and complete record of all of the
-transactions of the Town Assembly. He shall file and keep in a safe place the seal of the Village and all papers
+and shall keep the same in a safe and secure place. The Secretary shall keep a full and complete record of all of the
+transactions of the Town Assembly. The Secretary shall file and keep in a safe place the seal of the Village and all papers
 and documents arising out of the proceedings of the Town Assembly and relative to the affairs of the Village.
-He shall deliver the same to his successor in office. He shall attest the seal of the Village when authorized by
+The Secretary shall deliver the same to his successor in office. The Secretary shall attest the seal of the Village when authorized by
 the Town Assembly and shall perform such duties and have such other powers as may be prescribed by
 ordinance. All books, records and journals of the Village in the custody of the Secretary may, in the presence of
 the Secretary, be inspected by any resident, Trustee or leaseholder of the Village desiring legitimate
-information at any time or times as may be convenient. The compensation of the Secretary for his duties as
-such, shall be determined by the Town Assembly.
+information at any time or times as may be convenient. The compensation of the Secretary shall be determined by the Town Assembly.
 Committees of the Town Assembly
 Section 6
-(a) The Town Assembly may elect such officials, including a Treasurer, and such agents, committees and
+(a) The Town Assembly may elect such officials and such agents, committees and
 commissioners of the Village which the Town Assembly may deem proper and necessary for the management
 of the Village and for the operation and enforcement of this Act and of any ordinances and resolutions adopted
 hereinunder. Any person so elected shall be a resident of the Village and shall serve at the pleasure of the
-Town Assembly but in no event longer than two years unless re-elected.
+Town Assembly.
 (b) All persons presently serving on committees of the Town Assembly shall continue in office until their
 successors are duly elected in the manner herein provided.
 Board of Assessors
 Section 7
-(a) The Board of Assessors shall consist of seven (7) residents elected in the manner herein provided: Candidates
-for the Board of Assessors shall be nominated by the Town Assembly at its regular September meeting of each
-year. No later than 45 days after such nomination, the Registration Committee of the Village shall mail ballots
-containing the names of all nominees to each resident of the Village. The ballots shall be in such form as the
-Registration Committee shall prescribe and shall contain suitable boxes for marking the choices of the voters.
-Each resident shall return his marked ballot to the Registration Committee within 30 days after the mailing
-thereof. The Registration Committee shall tally the votes cast and report the results of the election at the first
-regular meeting of the Town Assembly following the election. The election and the result thereof shall be
-governed by the Hare System of Proportional Representation.
-(b) The members of the Board of Assessors shall serve for one year or until their successors are duly elected in
-accordance with the provisions of this Act.
-(c) The duties of the Board of Assessors shall consist of assessing the full rental value of leased lands in the
-Village. The Board shall conduct two hearings during May and June of each year which shall be open to all
-residents, Trustees and leaseholders of the Village. Notice of the time, date and place of each hearing shall be
-mailed to all residents, leaseholders and Trustees at least five (5) days before such hearing. The Board shall
+(a) The Board of Assessors shall consist of seven (7) residents for a one-year term.
+The duties of the Board of Assessors shall consist of assessing the full rental value of leased lands in the
+Village. The Board shall conduct a minimum of two hearings during their deliberations which shall be open to all
+residents, Trustees and leaseholders of the Village. The Board shall
 fix rules and regulations for the conduct of the hearings, provided that reasonable opportunity shall be afforded
-to all persons entitled to notice thereof to be heard at such bearings. The Board shall report its assessment
+to all persons entitled to notice thereof to be heard at such hearings. The Board shall report its assessment
 rate to the regular June meeting of the Town Assembly.
-(d) The Assessors shall, before assuming office, take an oath of office before any person qualified under the Laws
+(b) The Assessors shall, before assuming office, take an oath of office before any person qualified under the Laws
 of the State of Delaware, to administer oaths, which oath shall be in the following form: "I.............. do solemnly
 swear (or affirm) that I will faithfully perform and discharge my duties as Assessor of Arden to the best of my
-ability and that I will as nearly as possible assess the full rental value for Arden lands as required by the Deed
-of Trust and the Leases of Arden."
-(e) The assessment rate determined by the Board for the assessment of Arden lands shall be final and conclusive,
+ability and that I will as nearly as possible assess the full rental value or community standard of living for Arden
+lands as required by the Deed of Trust and the Leases of Arden."
+(c) The assessment rate determined by the Board for the assessment of Arden lands shall be final and conclusive,
 provided that any leaseholder of the Village shall have the right to appeal such determination by submitting a
 proposed assessment rate to the Town Assembly at its regular September meeting. In the event that such
 proposed rate shall receive the affirmative vote of two-thirds of the residents voting at such meeting, such
 proposed rate and the rate determined by the Board shall both be submitted to a general referendum of the
-residents of the Village. The referendum shall be conducted by the Registration Committee. The rate approved
-by a majority of residents shall be the rate in effect until redetermined in the manner herein provided.
-(f) The Board of Assessors shall determine the applicability of differential factors to the application of the
+residents of the Village. The referendum shall be conducted by the Registration Committee. The rate approved by a majority of votes cast shall be the rate in effect until redetermined in the manner herein provided.
+(d) The Board of Assessors shall determine the applicability of differential factors to the application of the
 assessment rate upon leaseholds in the Village. The Board shall afford leaseholders the opportunity to be
 heard upon any question arising thereunder.
-(g) It shall be the duty of the Board to keep and maintain a full and accurate record of its deliberations and
+(e) It shall be the duty of the Board to keep and maintain a full and accurate record of its deliberations and
 proceedings, including all information and data considered in its determinations. Such record shall be open to
 the inspection of any Trustee, resident or leaseholder at any time or times as may be convenient. Upon the
 expiration of their term in office, the assessors shall deliver the same to their successors.
@@ -168,25 +244,22 @@ Section 8
 (a) The Budget Committee shall consist of five residents of the Village elected by the Town Assembly.
 The Budget Committee shall prepare a budget governing (1) the expenditure of all Village funds, the use and
 expenditure of which are not specifically governed by Federal, State or County laws, rules and regulations; and
-(2) the expenditure of all monies derived from the collection of ground rents, the lawful use and expenditure of
+(2) governing the expenditure of all monies derived from the collection of ground rents, the lawful use and expenditure of
 which are now and hereafter subject to the approval and consent of the residents of the Village.
 (b) The budget prepared by the Committee shall be reported to the Town Assembly at its regular September
 meeting of each year. The Town Assembly may modify or amend all or any portion of the budget. The proposed budget,
 with any amendments thereto, shall be approved by the Town Assembly and submitted to a general
 referendum of the residents of the Village.
+(c) In the event that the budget referendum fails the town shall use the previous year's budget until
+a new budget can be approved.
 Registration Committee
 Section 9
-(a) The Registration Committee shall consist of: (1) five residents of the Village elected by the Town Assembly.
-Two members of the Committee shall be elected by the Town Assembly at its regular March meeting in each
-odd-numbered year. Three members of the Committee shall be elected by the Town Assembly at its regular
-March meeting in each even-numbered year. Each member, so elected, shall serve in office for two years or
-until his/her successor is duly elected; and (2) the Senior Trustee of Arden and the Secretary of the Town
-Assembly. The Clerk of the Trustees shall be an ex-officio member of this committee.
-(b) The Registration Committee shall register all residents of the Village as defined in Section 3 of this Act and
+(a) The Registration Committee shall consist of five residents of the Village elected by the
+    Town Assembly and three non-voting ex-officio members: the Senior Trustee of Arden, the Secretary of the Town Assembly, and the Clerk of the Trustee. The Registration Committee shall register all residents of the Village as defined in Section 3 of this Act and
 shall keep a full and accurate record thereof which shall set forth the date each resident establishes his
 residence. The registration record shall be conclusive evidence of the entitlement of the persons therein listed
 to vote at meetings of the Town Assembly and referenda held hereunder.
-(c) The Registration Committee shall supervise all referenda held hereunder and shall fix rules and regulations,
+(b) The Registration Committee shall supervise all referenda held hereunder and shall fix rules and regulations,
 not in consistent with the provision of this act, for the proper and orderly conduct thereof. The Registration
 Committee shall certify in writing to the Town Assembly and to the Trustees the results of all referenda held
 hereunder. 69 Del. Laws, c. 30
@@ -194,7 +267,7 @@ Vacancies
 Section 10
 In case of vacancy created in any office established under the provisions of this Act and the doings of the Town
 Assembly by reason of death, resignation, loss of residence in the Village, conviction of a felony or otherwise, the Town
-Assembly, at the earliest possible meeting, shall elect some suitable person to serve the unexpired term of such office.
+Assembly, at the earliest possible meeting, shall elect a resident to serve the unexpired term of such office.
 Powers and Ordinances
 Section 11
 The Village shall have all powers possible for the Village to have under the Constitution and laws of Delaware as fully
@@ -213,81 +286,34 @@ department of the State of Delaware for any lawful purpose.
 The Village may exercise any of its powers or perform any of its functions and may participate in the financing thereof,
 jointly or in cooperation, by contract or otherwise with any one or more states or civil divisions or agencies thereof, including
 the government of New Castle County, or the United States or any agency thereof.
-It shall be the duty of the Town Assembly, at a reasonable time or times, to compile the ordinances, codes, orders and
-rules of the Town Assembly of the Village. The Town Assembly shall have a reasonable number of copies printed for the
-use of the officials of the Village and for public information. From time to time, upon the enactment of new ordinances,
+It shall be the duty of the Town Assembly, at a reasonable time or times, to compile the ordinances, policies, codes, orders and
+rules of the Town Assembly of the Village. The Town Assembly shall provide access to copies for the
+use of the officials of the Village and for public information. From time to time, upon the enactment of new ordinances, policies,
 codes, rules and regulations, or upon the enactment of amendments to the same, the Secretary of the Town Assembly shall
-enroll the same in the journal of the Town Assembly and keep copies of the same in a book to be provided for that purpose
-so that the same may be readily examined.
+enroll the same in the record of the Town Assembly and keep copies of the same to be provided for that purpose
+so that the same may be readily accessed and examined.
 Enforcement, Fines and Penalties
 Section 12
 (a) The Justices of the Peace sitting (whether regularly, specially or otherwise) in the Justice of the Peace Court
 located nearest to the Village shall have jurisdiction and cognizance of all offenses against the provisions of
 this Act or the authorized ordinances of the Village committed within the limits of the Village as far as to arrest
-and hold to bail or fine and imprison offenders; provided that he shall impose no fine or penalty in excess of
-that fixed by the ordinance and shall not commit to prison for a longer term than 30 days. The New Castle
-County Correctional Institution may be used for imprisonment under the provisions of this Act provided that the
-Town Assembly shall pay for the board of persons committed for breaches of ordinances which are not
-breaches of the general law.
-(b) No ordinance of the Village shall provide for a fine in excess of $100 or imprisonment of more than 30 days.
+and hold to bail or fine and imprison offenders; provided that no fine, penalty or sentence of imprisonment in excess of
+the limits prescribed by State law.
+(b) No ordinance of the Village shall provide for a fine in excess of the limits prescribed by State law.
 (c) Any person convicted before such Justice of the Peace for the violation of any Village ordinance may appeal
-from such conviction to the Superior Court in and for New Castle County upon giving bond to the State with or
-without surety, as such Justice of the Peace shall determine, binding the person taking the appeal to appear
-before the Court. Notice of such an appeal shall be given to such Justice of the Peace within five (5) days from
-the time of conviction, counting the day of conviction as one, and the bond with surety, if any, shall be filed
-within five (5) days. No bond upon appeal from a conviction for violation of a Village ordinance shall exceed the
-sum of one hundred dollars ($100). Such appeal shall be prosecuted and the proceedings shall be had as in an
-appeal from a conviction before a Justice of the Peace in the case of a violation of the laws relating to the
-operation of motor vehicles.
-Police Force
+from such conviction to the Superior Court in and for New Castle County.
+ 
 Section 13
-The Town Assembly may appoint a police force consisting of such person or persons as the Town Assembly may deem
-wise and advisable. The Town Assembly shall from time to time, upon recommendations of its Safety Committee, adopt
-rules and regulations as may be necessary for the organization, government and control of the police force. The members
-of the force shall be subject to the direction of the Town Assembly and may be removed by the Town Assembly at any time.
-They shall preserve peace and order and shall compel obedience within the Village limits to the ordinances of the Village
-and the laws of the State; and they shall have such other duties as the Town Assembly shall from time to time prescribe.
-Each member of the police force shall be vested with all powers and authority of a constable of New Castle County
-within the Village limits and within one mile outside such limits, and in the case of the pursuit of an offender, his power and
-authority shall extend to all parts of the State of Delaware.
-Every person sentenced to imprisonment by the Justice of the Peace, as provided in Section 12 of this Act, shall be
-delivered by a member of the police force to the New Castle County Correctional Institution, to be there imprisoned for the
-term of the sentence.
-It shall be the duty of the police to suppress riotous, disorderly or turbulent assemblages of persons in the streets and
-public places of the Village, or the noisy conduct of any person in the same, and upon view of the above, or upon the view
-of the violation of any ordinance of the Village relating to the peace and good order thereof, the police shall have the right
-and power to arrest without warrant and to take the offender before the Justice of the Peace, as aforesaid.
+The Town Assembly may appoint law enforcement officials, consisting of such person or persons
+as the Town Assembly may deem appropriate.
 Contracts of the Town Assembly
 Section 14
 The Town Assembly is vested with authority on behalf of the Village to enter into contracts for the rendering of services
 to the Village and/or the purchase of supplies and doing of work for any municipal purpose of the Village. All formal
-contracts shall be signed by the Chairman of the Town Assembly, with the seal of the Village attached and attested by the
-Secretary of the Town Assembly.
-Fire, Zoning and Housing Codes
-Section 15
-For protection against fire and for the preservation of the beauty of the Village and the health of the inhabitants, the
-Town Assembly may adopt ordinances to zone or district the Village and to make particular provisions for particular zones
-or districts with regard to buildings and building materials; to prohibit the use of building materials that may be deemed to
-create a fire hazard, and this power shall embrace new buildings or additions to or alterations of existing structures of every
-kind, to condemn and/or vacate buildings or structures, or portions thereof, that constitute a fire and/or health menace and
-to require or cause the same to be torn down or removed or so altered as to eliminate the menace of fire or danger to
-health; to prescribe the height and thickness of walls of any building and the kind and grade of materials used in the
-construction thereof; and to establish a building line for buildings to be erected.
-The Town Assembly may adopt zoning ordinances limiting and specifying districts and regulating thereon buildings,
-structures and uses according to their construction and according to the nature and extent of the use or business to be
-carried on therein.
-The powers to be exercised under and by virtue of this Section shall be deemed to have been exercised under the
-police power and for the general welfare of the inhabitants of the Village.
-The Town Assembly may create a Village Zoning Commission for the development, improvement and beautification of
-the Village and may prescribe its powers and duties.
-The Town Assembly may provide for the issuance of building permits and may forbid the construction of any new
-building or the addition to, or alteration or repair of any existing building unless a building permit has been obtained
-therefor.
-The Town Assembly may adopt a housing code to regulate and govern the occupancy of residential structures in the
-Village, the structural requirements of residential and commercial properties for the health, safety, welfare and comfort of
-occupants thereof, and to appoint a commission to carry out and enforce the provisions of the housing code.
+contracts shall be signed by the Chair of the Town Assembly, and witnessed by a second official of the Village.
+
 Savings Clause
-Section 16
+Section 15
 All ordinances, resolutions and motions adopted by the Commissioners of the Village of Arden and in force at the time
 of the approval, acceptance and going into effect of this Act are continued in force until the same or any of them, shall be
 repealed, modified or altered by the Town Assembly under the provisions of this Act. All the acts and doings of the
@@ -295,9 +321,9 @@ Commissioners of the Village of Arden or of any official of the Village of Arden
 performed under the laws of this State, prior to the approval, acceptance and going into effect of this Act are hereby ratified
 and confirmed unless otherwise provided herein.
 Severability
-Section 17
+Section 16
 If any part of this Act shall be held unconstitutional, such holding shall not in anywise invalidate the remaining
 provisions of this Act.
-Section 18
+Section 17
 This Act shall be deemed and taken to be a public Act.
 56 Del. Laws, c. 125; 58 Del. Laws, c. 91; 69 Del. Laws, c. 30
